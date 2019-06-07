@@ -28,7 +28,7 @@
     "jadlog_agency": {
       "schema": {
         "title": "Agência Jadlog",
-        "type": "interge",
+        "type": "integer",
         "description": "Agência da transportadora jadlog que fará a coleta das encomendas"
       },
       "hide": false
